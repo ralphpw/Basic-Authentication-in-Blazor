@@ -94,3 +94,7 @@ main {
         right: 0.75rem;
         top: 0.5rem;
     }
+
+.user-info {
+    color: #6c757d;
+}
