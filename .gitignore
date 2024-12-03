@@ -1,0 +1,13 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/bundle-source RUN.lnk
+/bundle-source.py
+/obj
+/.vs
+/bin
+/*.user
+/BlazorApp/.vs/
+/BlazorApp/obj/
+/BlazorApp/bin/
